@@ -2,3 +2,6 @@
 alikey=uuuu
 wechat app修改 微信9999
 
+推送远程仓库修改别名
+
+
